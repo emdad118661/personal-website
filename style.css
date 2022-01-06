@@ -31,7 +31,7 @@ h1{
 .heading-color{
     color: rgb(0, 132, 255);
 }
-.border{
+#border{
     border-left: 4px solid;
     border-image: linear-gradient(blue,rgb(31, 9, 92), rgb(100, 29, 158));
     border-image-slice: 1;
@@ -81,10 +81,7 @@ h4{
     font-size: 30px;
     color: rgb(87, 12, 12);
 }
-.text-organizing-2{
-    margin-right: 40px;
-}
-.shape{
+#shape{
     background-image: url(images/shape-4.png);
     background-position: left;
     background-size: 300px 400px;
