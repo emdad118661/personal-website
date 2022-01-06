@@ -33,4 +33,5 @@
     border-left: 4px solid;
     border-image: linear-gradient(blue,rgb(31, 9, 92), rgb(100, 29, 158));
     border-image-slice: 1;
+    padding-left: 10px;
 }
