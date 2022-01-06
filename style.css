@@ -1,0 +1,22 @@
+
+.top-heading{
+    width: 50%;
+    font-size: 30px;
+}
+.top-section{
+    display: flex;
+}
+.github-button{
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient(blue, rgb(31, 9, 92), rgb(100, 29, 158));
+    color: floralwhite;
+    border-radius: 10px;
+    padding: 15px 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: gray;
+}
+.top-heading image{
+    width 50%
+
+}
