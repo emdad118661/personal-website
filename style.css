@@ -1,24 +1,23 @@
 
 body{
-    margin: 50px 60px 60px 60px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 50px 60px 5px 60px;
 }
 .top-heading{
     width: 50%;
     font-size: 20px;
-    
     margin-top: 20px;
 }
 .top-section{
     display: flex;
+    margin-bottom: 50px;
 }
 .github-button{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
     background-image: linear-gradient(blue, rgb(31, 9, 92), rgb(100, 29, 158));
     color: floralwhite;
     border-radius: 10px;
-    padding: 15px 40px;
+    padding: 15px 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .top-heading image{
@@ -26,11 +25,11 @@ body{
     
 }
 h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50px;
-    
 }
 .heading-color{
-    color: blue;
+    color: rgb(0, 132, 255);
 }
 .border{
     border-left: 4px solid;
@@ -54,4 +53,34 @@ h1{
 }
 #box-color-3{
     background-color: rgba(172, 255, 47, 0.219);
+}
+.text-organizing{
+    margin-left: 40px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#background-image{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 600px 300px;
+}
+#footer-style{
+    background-color: rgb(255, 231, 10);
+    padding: 10px 100px;
+    text-align: center;
+}
+h4{
+    font-family: cursive;
+    font-size: 30px;
+    color: rgb(87, 12, 12);
+}
+.text-organizing-2{
+    margin-right: 40px;
 }
