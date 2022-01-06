@@ -1,7 +1,10 @@
 
 .top-heading{
     width: 50%;
-    font-size: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+    margin-top: 20px;
 }
 .top-section{
     display: flex;
@@ -19,5 +22,16 @@
 .top-heading image{
     width 50%
     
-
+}
+.top-heading h1{
+    font-size: 50px;
+    
+}
+#heading-color{
+    color: blueviolet;
+}
+.border{
+    border-left: 4px solid;
+    border-image: linear-gradient(blue,rgb(31, 9, 92), rgb(100, 29, 158));
+    border-image-slice: 1;
 }
